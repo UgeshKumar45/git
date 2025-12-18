@@ -1,5 +1,5 @@
-console.log("hello dindigul");
+console.log("hello world");
 
 for(var i=0;i<5;i++){
-    console.log("ugeshkumar");
+    console.log("UK");
 }
